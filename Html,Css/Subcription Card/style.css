@@ -1,0 +1,121 @@
+.container1{
+    border:1px solid black;
+    text-align: center;
+    max-width:25% ;
+    background-color: aliceblue;
+    height:500px ;
+    margin:20px 20px 20px 20px ;
+}
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    display: flex;
+    background-color: blueviolet;
+    height: 800px;
+}
+.card1 h2{
+    color:orange;
+}
+.card1 p{
+    /* margin-right: 30px;  */
+   
+}
+.card1 button{
+    border-color: bisque;
+    border-radius:6px ;
+    padding:10px ;
+    font-size:15px ;
+    margin-top:20px ;
+    width: 200px;
+}
+.card1 button:hover{
+    background-color: aqua;
+}
+/*.card1 button{
+    background:transparent ;
+    border-radius: 6px;
+    font-size:15px;
+    width: 300px;
+    color: aliceblue;
+    padding-top: 20px;
+    margin-bottom:30px ;
+ }*/
+ .container2{
+    border:1px solid black;
+    text-align: center;
+    max-width:25% ;
+    background-color: aliceblue;
+    height: 500px;
+    margin:20px 20px 20px 20px ;
+}
+.card2 h2{
+    color:green;
+}
+.card2 p{
+    /* margin-right: 30px;  */
+}
+.card2 button{
+    border-color:bisque;
+    border-radius:6px ;
+    padding:10px ;
+    font-size:15px ;
+    margin-bottom:20px ;
+    width: 200px;
+}
+.card2 button:hover{
+   background-color: aquamarine; 
+}
+/* /* .card2 button{
+    background:transparent ;
+    border-radius: 6px;
+    font-size:15px;
+    width: 300px;
+    color: aliceblue;
+    padding-top: 20px;
+    margin-bottom:30px ; 
+ } */
+ .container3{
+    border:1px solid black;
+    text-align: center;
+    max-width:25% ;
+    background-color: aliceblue;
+    height: 500px;
+    margin:20px 20px 20px 20px;
+
+}
+.card3 h2{
+    color:blue;
+}
+/* .card3 p{
+    margin-right: 30px; 
+} */
+.card3 button{
+    border-color:bisque;
+    border-radius:6px ;
+    padding:10px ;
+    font-size:15px ;
+    margin-left:40px ;
+    margin-top: 10px;
+    width: 200px;
+}
+
+.card3 button:hover{
+    background-color: cadetblue;
+    }
+
+/* .card3 button{
+    background:transparent ;
+    border-radius: 6px;
+    font-size:15px;
+    width: 300px;
+    color: aliceblue;
+    padding-top: 20px;
+    margin-bottom:30px ;
+ } */
+ /* .container{
+    display: flex;
+ } */
+.css{
+    font-size: 15px;
+    color: lightslategray;
+}

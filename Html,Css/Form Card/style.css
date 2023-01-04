@@ -1,0 +1,16 @@
+.box{
+    background-color: aquamarine;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    padding:20px;
+}
+.box button{
+    border-radius: 30px;
+    width: 300px;
+    color:black;
+    background-color: aqua;
+}
+.box button:hover{
+    border-color: antiquewhite;
+}

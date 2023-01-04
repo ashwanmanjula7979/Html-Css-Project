@@ -1,0 +1,23 @@
+.container{
+    background-color: black ;
+    color:white ;
+    height: 400px;
+    width: 1300px;
+    /* display:flex ;
+    padding: 40px;
+    justify-content: space-evenly; */
+}
+.footer{
+    display: flex;
+    padding: 40px;
+    justify-content:space-evenly ;
+}
+
+/* .right{
+    border: 2px solid green;
+    
+} */
+.box{
+    text-align: center;
+    margin-left: 50px;
+}

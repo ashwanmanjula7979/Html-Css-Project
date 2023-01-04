@@ -1,0 +1,51 @@
+.container{
+    height: 700px;
+    width: 1300px; 
+    padding:10px;
+}
+
+
+.card{
+    background-color:white ;
+    height: 480px;
+    width: 300px;
+    text-align: center;
+    margin:auto;
+    margin-top:30px;
+    border-radius:20px;
+    border:0.5px solid rgba(143,120,143,1);
+    box-shadow: 6px -4px 13px -3px rgba(143,120,143,1);
+}
+
+.card img{
+    border-radius:20px;
+}
+
+.discription{
+     
+    width: 500px;
+    height: 50px;
+    display: flex;
+}
+.profile-img{
+   background-image: url(manju.jpeg);
+   background-size: cover;
+   height: 70px; 
+   width: 70px;
+   border-radius:50% ;
+   margin-left:30px ;
+}
+.intro{
+
+    width: 30%; 
+    margin-right:10px ;
+    
+    
+}
+/* .container{
+    border: 2px solod red;
+    height:800px ;
+    width: 800px;
+} */
+
+

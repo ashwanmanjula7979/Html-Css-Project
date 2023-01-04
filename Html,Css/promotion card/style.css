@@ -1,0 +1,29 @@
+.container{
+    border: 1px solid black;
+    height: 500px;
+    width: 800px;
+    margin-left: 200px;
+    padding-left: 50px;
+    background-color: rgb(35, 33, 33);
+    color: white;
+
+}
+table,tr,th{
+    border: 1px solid lightslategray;
+    border-collapse: collapse;
+}
+ td{
+    text-align: center;
+ }
+
+ button{
+    background-color: red;
+    color: white;
+    height: 30px;
+    width: 90px;
+    border-radius: 50px;
+ }
+ button:hover{
+    background-color: black;
+ }
+
